@@ -81,5 +81,7 @@
   "select_custom_color": "تحديد لون مخصص",
   "advanced": "متقدم",
   "advanced_color": "ألوان متقدمة",
-  "done": "تم"
+  "done": "تم",
+  "modules_skip": "Skip",
+  "modules_unskip": "Unskip"
 }

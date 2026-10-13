@@ -81,5 +81,7 @@
   "select_custom_color": "Wybierz własny kolor",
   "advanced": "Zaawansowane",
   "advanced_color": "Zaawansowany kolor",
-  "done": "Gotowe"
+  "done": "Gotowe",
+  "modules_skip": "Skip",
+  "modules_unskip": "Unskip"
 }
